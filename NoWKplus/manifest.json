@@ -3,6 +3,7 @@
   "name": "NoWKplus",
   "description": "Remove the Weserkurier Plus paywall",
   "version": "1.0",
+  "author": "Lars Jelschen",
   
   "icons": {
     "32": "icons/icon-32.png",
