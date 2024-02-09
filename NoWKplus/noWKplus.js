@@ -16,6 +16,4 @@ async function removeWKpaywall() {
         oldText.innerHTML = newText.innerHTML
     })    
 }
-
-//run the function after 1 second
 setTimeout(removeWKpaywall, 500);
